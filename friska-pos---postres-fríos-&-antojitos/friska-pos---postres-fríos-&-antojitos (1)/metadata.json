@@ -1,0 +1,6 @@
+{
+  "name": "Friska POS - Postres Fríos & Antojitos",
+  "description": "Sistema de Punto de Venta (POS) y Pantalla de Cocina (KDS) para Friska: gestión de menú con fotos, carrito ágil, pantalla de órdenes en tiempo real con temporizadores y estados, calculadora de vueltos, historial con anulación y cierre de caja con envío por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
